@@ -1,0 +1,45 @@
+html{
+   color: white;
+}
+body{
+ background-color: black;
+}
+h1{
+    text-transform: uppercase;
+    color: #2DA5F5;
+    text-shadow: 5px 1px #4817DD;
+}
+h3{
+    text-transform: uppercase;
+    text-shadow: 1px 1px 2px pink;
+}
+.first{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 50px;
+    margin-right: 50px;
+}
+.second{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 50px;
+    margin-right: 50px;
+    }
+.third{
+    text-align: center;
+    margin-top: 50px;
+    background-color: white;
+    padding: 50px;
+    margin-right: 50px;
+    }
+.buddha{
+    border: 10px solid white;
+}
+.myfirstsale{
+    border: 10px solid white;
+}
+.quote{
+    border: 10px solid white;
+}
